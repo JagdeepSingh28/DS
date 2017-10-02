@@ -5,7 +5,7 @@ public class TNode {
 	TNode left;
 	TNode right;
 	
-	TNode(int key){
+	public TNode(int key){
 		this.key = key;
 		left = right = null;
 	}

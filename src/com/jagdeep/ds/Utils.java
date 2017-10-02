@@ -12,5 +12,13 @@ public class Utils {
 		A[pos1] = A[pos2];
 		A[pos2] = temp;
 	}
+
+	public static void print(String str){
+		System.out.println(str);
+	}
+
+	public static void print(int str){
+		System.out.println(String.valueOf(str));
+	}
 	
 }
