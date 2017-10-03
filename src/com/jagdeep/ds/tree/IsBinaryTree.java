@@ -15,9 +15,9 @@ public class IsBinaryTree {
     public static void main(String[] arg){
         createTree();
         if(root!=null && isBinaryTree(root))
-            Utils.print("This is a full binary tree");
+            Utils.println("This is a full binary tree");
         else
-            Utils.print("This is not a full Binary tree");
+            Utils.println("This is not a full Binary tree");
     }
 
     private static boolean isBinaryTree(TNode node) {

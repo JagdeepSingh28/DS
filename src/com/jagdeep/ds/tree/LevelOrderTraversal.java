@@ -42,7 +42,7 @@ public class LevelOrderTraversal {
                 queue.add(cNode.right);
         }
 
-        Utils.print("Level Order Traversal is Completed");
+        Utils.println("Level Order Traversal is Completed");
     }
 
     private static void createTree() {

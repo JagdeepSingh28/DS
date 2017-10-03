@@ -20,8 +20,9 @@ public class PrintLeftView {
     private static void printLeftView(ArrayList<Integer> l,TNode node,int i) {
         if(node == null)
             return;
-        if(i==l.size())
-            l.add(node.key);
+//        if(i==l.size())
+//            l.add(node.key);
+        Utils.print(i);
         printLeftView(l,node.left,i+1);
         printLeftView(l,node.right,i+1);
     }
