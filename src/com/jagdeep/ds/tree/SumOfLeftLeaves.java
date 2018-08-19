@@ -17,10 +17,8 @@ public class SumOfLeftLeaves {
         if(leafNode == null)
             return false;
 
-        if(leafNode.right == null && leafNode.left == null)
-            return true;
+        return leafNode.right == null && leafNode.left == null;
 
-        return false;
     }
 
     private static void findSumOfLeftLeaves(TNode node) {
