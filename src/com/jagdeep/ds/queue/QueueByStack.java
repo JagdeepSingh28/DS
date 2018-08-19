@@ -1,4 +1,4 @@
-package queue;
+package com.jagdeep.ds.queue;
 
 import java.util.Stack;
 
