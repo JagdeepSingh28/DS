@@ -10,7 +10,7 @@ public class LinkedListTest {
 			myLinkedList.addNode(15,MyLinkedList.ORDERED);
 			myLinkedList.addNode(20,MyLinkedList.ORDERED);
 			myLinkedList.addNode(30,MyLinkedList.ORDERED);
-			myLinkedList.addNode(50,4);
+			myLinkedList.addNode(50,2);
 			
 //			myLinkedList.traverseLinkedList();
 			
