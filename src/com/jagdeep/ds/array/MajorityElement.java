@@ -61,4 +61,6 @@ class MajorityElement
         int size = a.length;
         majorelement.printMajority(a, size);
     }
+
+
 }
