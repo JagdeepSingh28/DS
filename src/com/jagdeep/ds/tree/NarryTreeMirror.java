@@ -1,8 +1,7 @@
 package com.jagdeep.ds.tree;
 
-import com.jagdeep.ds.Utils;
+import com.jagdeep.ds.Utils.Utils;
 
-import javax.swing.tree.TreeNode;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.Queue;

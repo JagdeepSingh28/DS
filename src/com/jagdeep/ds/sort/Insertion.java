@@ -1,6 +1,6 @@
 package com.jagdeep.ds.sort;
 
-import com.jagdeep.ds.Utils;
+import com.jagdeep.ds.Utils.Utils;
 
 // COMPLEXITY IS ORDER OF N-SQUARE
 public class Insertion {

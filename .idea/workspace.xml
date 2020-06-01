@@ -1,65 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd483ec7-ce52-4756-986c-02ae11443824" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/AloneInCouple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddBinary_67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayPartitionI_561.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BackSpaceCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Boats_to_Save_People_881.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Climbing_Stairs_70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ClosestSumProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ContainerWithMostWater_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ContainsDuplicate_219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FirstUniqChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FlipAndInvertImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FruitIntoBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Haystack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/House_Robber_198.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/KClosestPointstoOrigin_973.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/KthLargestElementArray_215.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LetterCombinationOfPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MajorityElement_169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Majority_Element_229.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxAreaIsland_695.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinMeetingRoomsII_253.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/NextClosestTime_681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionEqualSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveDuplicatesSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortArrayByParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/UniqueEmailAddress_929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidMountainArray_941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidPalindromeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/WallsAndGate_286.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ZigZagConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/findTheDifference_389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/thread/SynchronizedBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/thread/ThreadJoinDemo.java" afterDir="false" />
+    <list default="true" id="fd483ec7-ce52-4756-986c-02ae11443824" name="Default" comment="leet code Commit">
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/HashMap/DesignHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/array/ArrayToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/Convert_0To5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/MinWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/graph/All_Paths_From_Source_Target_797.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddDigit_258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayNesting_565.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BST_from_preorder_1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/CountCharacters_1160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/DecryptString_1309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Detect_capital_520.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Height_Checker_1051.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Intersection_of_Two_Linked_Lists_160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsomorphicString_205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Multiply_String_43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/OddEvenLinkedList_328.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Queen_king_1222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RangeSumQuery2D_304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Relative_Sort_Array_1122.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveVowel_1119.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Resverse_word_151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ReverseVowelsString_345.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Shuffle_Array_384.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SingleNumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortColors_75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Sum_of_Square_Numbers_633.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Three_sum_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/TwoSum1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/TwoSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/WingleSort_280.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_1302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_387_FirstUniqueCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_408_Valid_Word_Abbreviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/SimpleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/Trash" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterativeOneStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/RangeSumBST_938.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/RightViewOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SpiralLevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/ToLowerCase_709.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/array/Pivot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/array/Pivot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/dynamic/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/dynamic/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/sort/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/sort/Insertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/IsBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/IsBinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/LevelOrderTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/MirrorTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/MirrorTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NarryTreeMirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NarryTreeMirror.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NoSiblingsNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NoSiblingsNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PreOrderIterativeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PreOrderIterativeTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeafPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeafPath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeftView.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeftView.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/SumOfLeftLeaves.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/SumOfLeftLeaves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/Utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/array/Pivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/array/Pivot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/sort/Insertion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/IsBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/IsBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/LevelOrderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/MirrorTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/MirrorTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NarryTreeMirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NarryTreeMirror.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NoSiblingsNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NoSiblingsNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PreOrderIterativeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PreOrderIterativeTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeafPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeafPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeftView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeftView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/Search_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/Search_BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SumOfLeftLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SumOfLeftLeaves.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,112 +90,6 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidMountainArray_941.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayPartitionI_561.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ClosestSumProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FruitIntoBasket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddBinary_67.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/WallsAndGate_286.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/thread/ThreadJoinDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -186,134 +99,40 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>[</find>
-      <find>]</find>
       <find>if(i &lt; 0 || i &gt;</find>
       <find>INF</find>
+      <find />
+      <find>[</find>
+      <find>]</find>
     </findStrings>
     <replaceStrings>
+      <replace>2147483647</replace>
       <replace>{</replace>
       <replace>}</replace>
-      <replace>2147483647</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FlipAndInvertImage.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/thread/SynchronizedBlock.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/AloneInCouple.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortArrayByParity.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader2.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ZigZagConversion.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IntegerToRoman.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ClosestSumProblem.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FruitIntoBasket.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LetterCombinationOfPhone.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionEqualSubset.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BackSpaceCompare.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ContainsDuplicate_219.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/findTheDifference_389.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MajorityElement_169.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Majority_Element_229.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_122.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/FirstUniqChar.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Haystack.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Climbing_Stairs_70.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ContainerWithMostWater_11.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/UniqueEmailAddress_929.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinMeetingRoomsII_253.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/KClosestPointstoOrigin_973.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/KthLargestElementArray_215.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxAreaIsland_695.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/thread/ThreadJoinDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/NextClosestTime_681.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/House_Robber_198.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Boats_to_Save_People_881.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddBinary_67.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/WallsAndGate_286.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidPalindromeII.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidMountainArray_941.java" />
-        <option value="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayPartitionI_561.java" />
-      </list>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="12" />
-    <option name="y" value="-4" />
-    <option name="width" value="1297" />
-    <option name="height" value="664" />
+    <option name="x" value="45" />
+    <option name="y" value="24" />
+    <option name="width" value="1295" />
+    <option name="height" value="628" />
   </component>
+  <component name="ProjectId" id="1bi57jrlNj97m4F0eGMnbbAU7dJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ds" type="462c0819:PsiDirectoryNode" />
-              <item name="leet" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Set.java" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538650561399" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../B2CorpController/code/corporatemobileutility" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -333,21 +152,9 @@
       <recent name="G:\Work\code\jagdeepGit\DS\src\com\jagdeep\ds\array" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ArrayPartitionI_561">
-    <configuration name="ArrayPartitionI_561" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.ArrayPartitionI_561" />
+  <component name="RunManager" selected="Application._408_Valid_Word_Abbreviation">
+    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.TwoSum1" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -360,8 +167,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsHappyNumber_202" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.IsHappyNumber_202" />
+    <configuration name="_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._238" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -374,8 +181,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Same_Tree_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.Same_Tree_100" />
+    <configuration name="_387_FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._387_FirstUniqueCharacterInString" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -388,8 +195,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMountainArray_941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.ValidMountainArray_941" />
+    <configuration name="_408_Valid_Word_Abbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._408_Valid_Word_Abbreviation" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -402,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindromeII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.ValidPalindromeII" />
+    <configuration name="_81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._81" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -439,19 +246,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Same_Tree_100" />
-      <item itemvalue="Application.IsHappyNumber_202" />
-      <item itemvalue="Application.ValidPalindromeII" />
-      <item itemvalue="Application.ValidMountainArray_941" />
-      <item itemvalue="Application.ArrayPartitionI_561" />
+      <item itemvalue="Application.TwoSum1" />
+      <item itemvalue="Application._238" />
+      <item itemvalue="Application._387_FirstUniqueCharacterInString" />
+      <item itemvalue="Application._408_Valid_Word_Abbreviation" />
+      <item itemvalue="Application._81" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayPartitionI_561" />
-        <item itemvalue="Application.ValidMountainArray_941" />
-        <item itemvalue="Application.ValidPalindromeII" />
-        <item itemvalue="Application.IsHappyNumber_202" />
-        <item itemvalue="Application.Same_Tree_100" />
+        <item itemvalue="Application._408_Valid_Word_Abbreviation" />
+        <item itemvalue="Application._387_FirstUniqueCharacterInString" />
+        <item itemvalue="Application.TwoSum1" />
+        <item itemvalue="Application._238" />
+        <item itemvalue="Application._81" />
       </list>
     </recent_temporary>
   </component>
@@ -466,6 +273,14 @@
       <option name="presentableId" value="Default" />
       <updated>1533136091320</updated>
     </task>
+    <task id="LOCAL-00001" summary="leet code Commit">
+      <created>1568267397143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568267397144</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -477,39 +292,43 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="38" y="-11" width="1329" height="780" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18813427" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25776398" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.22515528" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32763976" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.5946349" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32763976" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49298596" weight="0.24980484" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
-      <window_info anchor="right" id="Maven" order="8" sideWeight="0.49499" weight="0.32943013" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.50701404" side_tool="true" weight="0.24980484" />
-    </layout>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leet code Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet code Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1285" height="84" key="GridCell.Tab.0.bottom" timestamp="1589109587500">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="84" key="GridCell.Tab.0.bottom/35.24.1331.744@35.24.1331.744" timestamp="1589109587500" />
+    <state width="1285" height="84" key="GridCell.Tab.0.center" timestamp="1589109587499">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="84" key="GridCell.Tab.0.center/35.24.1331.744@35.24.1331.744" timestamp="1589109587499" />
+    <state width="1285" height="84" key="GridCell.Tab.0.left" timestamp="1589109587498">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="84" key="GridCell.Tab.0.left/35.24.1331.744@35.24.1331.744" timestamp="1589109587498" />
+    <state width="1285" height="84" key="GridCell.Tab.0.right" timestamp="1589109587500">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="84" key="GridCell.Tab.0.right/35.24.1331.744@35.24.1331.744" timestamp="1589109587500" />
+    <state width="1285" height="98" key="GridCell.Tab.1.bottom" timestamp="1589109587486">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="98" key="GridCell.Tab.1.bottom/35.24.1331.744@35.24.1331.744" timestamp="1589109587486" />
+    <state width="1285" height="98" key="GridCell.Tab.1.center" timestamp="1589109587483">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="98" key="GridCell.Tab.1.center/35.24.1331.744@35.24.1331.744" timestamp="1589109587483" />
+    <state width="1285" height="98" key="GridCell.Tab.1.left" timestamp="1589109587483">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="98" key="GridCell.Tab.1.left/35.24.1331.744@35.24.1331.744" timestamp="1589109587483" />
+    <state width="1285" height="98" key="GridCell.Tab.1.right" timestamp="1589109587486">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="98" key="GridCell.Tab.1.right/35.24.1331.744@35.24.1331.744" timestamp="1589109587486" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -517,373 +336,311 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/thread/OddEvenPrintMain.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/thread/MultipleOfThreeByThread.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/linkedlist/MyLinkedList.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/array/AlternatePosNeg.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/strings/PalindromeCheck.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/strings/AlternateString.java</url>
           <line>5</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/strings/EncryptedString.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveDuplicatesSortedArray.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveElement.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/AloneInCouple.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/AloneInCouple.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader.java</url>
           <line>38</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortArrayByParity.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortArrayByParity.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortArrayByParity.java</url>
           <line>72</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/test/TestLoader2.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ZigZagConversion.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ZigZagConversion.java</url>
           <line>82</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IntegerToRoman.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IntegerToRoman.java</url>
           <line>88</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IntegerToRoman.java</url>
           <line>81</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ClosestSumProblem.java</url>
           <line>33</line>
-          <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FruitIntoBasket.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java</url>
           <line>50</line>
-          <properties />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LetterCombinationOfPhone.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LetterCombinationOfPhone.java</url>
           <line>51</line>
-          <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionEqualSubset.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionEqualSubset.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BackSpaceCompare.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Majority_Element_229.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Majority_Element_229.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_122.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FirstUniqChar.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FirstUniqChar.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java</url>
           <line>8</line>
-          <properties />
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Haystack.java</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java</url>
           <line>48</line>
-          <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/UniqueEmailAddress_929.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/UniqueEmailAddress_929.java</url>
           <line>47</line>
-          <properties />
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class</url>
           <line>15</line>
-          <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -897,170 +654,418 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinMeetingRoomsII_253.java</url>
           <line>59</line>
-          <properties />
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinMeetingRoomsII_253.java</url>
           <line>36</line>
-          <properties />
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/KClosestPointstoOrigin_973.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/KClosestPointstoOrigin_973.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/KthLargestElementArray_215.java</url>
           <line>21</line>
-          <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxAreaIsland_695.java</url>
           <line>23</line>
-          <properties />
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxAreaIsland_695.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java</url>
           <line>42</line>
-          <properties />
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java</url>
           <line>16</line>
-          <properties />
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NextClosestTime_681.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java</url>
           <line>24</line>
-          <properties />
           <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java</url>
           <line>30</line>
-          <properties />
           <option name="timeStamp" value="101" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/House_Robber_198.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Boats_to_Save_People_881.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddBinary_67.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/WallsAndGate_286.java</url>
           <line>12</line>
-          <properties />
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="114" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java</url>
           <line>17</line>
-          <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java</url>
           <line>67</line>
-          <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="117" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java</url>
           <line>39</line>
-          <properties />
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java</url>
           <line>52</line>
-          <properties />
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayPartitionI_561.java</url>
           <line>13</line>
-          <properties />
           <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/CountCharacters_1160.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/WingleSort_280.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/RightViewOfBinaryTree.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/RightViewOfBinaryTree.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/RightViewOfBinaryTree.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/RangeSumBST_938.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddDigit_258.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/InOrderIterative.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/Convert_0To5.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/MinWindow.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterativeOneStack.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SingleNumberII.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SingleNumberII.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/RearrangeArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/RearrangeArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/RearrangeArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/TwoSumII.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Intersection_of_Two_Linked_Lists_160.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Multiply_String_43.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Resverse_word_151.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/RangeSumQuery2D_304.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/OddEvenLinkedList_328.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/OddEvenLinkedList_328.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/DecryptString_1309.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/graph/All_Paths_From_Source_Target_797.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/graph/All_Paths_From_Source_Target_797.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/graph/All_Paths_From_Source_Target_797.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayNesting_565.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Sum_of_Square_Numbers_633.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortColors_75.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsomorphicString_205.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Shuffle_Array_384.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BST_from_preorder_1008.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BST_from_preorder_1008.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Three_sum_15.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Relative_Sort_Array_1122.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Relative_Sort_Array_1122.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Height_Checker_1051.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Queen_king_1222.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Detect_capital_520.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/_238.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/_387_FirstUniqueCharacterInString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/_387_FirstUniqueCharacterInString.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/_408_Valid_Word_Abbreviation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterativeOneStack.java</url>
+          <line>20</line>
+          <properties field="root" class="com.jagdeep.ds.tree.PostOrderIterativeOneStack.BinaryTree" />
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1076,494 +1081,58 @@
     <SUITE FILE_PATH="coverage/DS$Anagram.ic" NAME="Anagram Coverage Results" MODIFIED="1566297488403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jagdeep.ds.leet.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/DS$ArrayNesting_565.ic" NAME="ArrayNesting_565 Coverage Results" MODIFIED="1579592082257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.jagdeep.ds.leet.*</FILTER>
+    </SUITE>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>'1'+'1'</expression-string>
+        <expression-string>'z'</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'0'</expression-string>
+        <expression-string>z</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'1'</expression-string>
+        <expression-string>x + dx &gt;= 0 &amp;&amp; x + dx &lt; 8 &amp;&amp; y + dy &gt;= 0 &amp;&amp; y + dy &lt; 8</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'1' - '0'</expression-string>
+        <expression-string>num[lo] + num[hi]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>'0' - '0'</expression-string>
+        <expression-string>num[i] != num[i - 1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>1 - '0'</expression-string>
+        <expression-string>num[i - 1]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>b.charAt(j--)</expression-string>
+        <expression-string>wordDict.contains(t.substring(k+1, i+1))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>b.charAt(j--) - '0'</expression-string>
+        <expression-string>res[k] &amp;&amp; wordDict.contains(t.substring(k+1, i+1))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nums[i]</expression-string>
+        <expression-string>Ch(char)94</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BackSpaceCompare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Subset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionEqualSubset.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LetterCombinationOfPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/Math.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="274" lean-forward="true" selection-start-line="274" selection-end-line="274" />
-          <folding>
-            <element signature="e#7371#7372#0" expanded="true" />
-            <element signature="e#7417#7418#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/findTheDifference_389.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#111#112#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/sortedArrayToBST_108.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/array/MajorityElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MajorityElement_169.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Majority_Element_229.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#249#258#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/strings/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/geeks/AloneInCouple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Anagram.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Climbing_Stairs_70.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="28" column="15" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="771" column="28" lean-forward="true" selection-start-line="771" selection-start-column="28" selection-end-line="771" selection-end-column="28" />
-          <folding>
-            <element signature="e#23051#23052#0" expanded="true" />
-            <element signature="e#23108#23109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FirstUniqChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/linkedlist/MyLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/UniqueEmailAddress_929.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ContainerWithMostWater_11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/PriorityQueue.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-          <folding>
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Haystack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_122.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="29" selection-start-line="11" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/KthLargestElementArray_215.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxAreaIsland_695.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NumberDisappearedInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="18" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinMeetingRoomsII_253.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1216#1217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/KClosestPointstoOrigin_973.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BattleShipCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FlipAndInvertImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/thread/JoinExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/NextClosestTime_681.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortCharactersByFrequency_451.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Unique_paths_62.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/House_Robber_198.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Boats_to_Save_People_881.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Same_Tree_100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-          <folding>
-            <element signature="method#isSameTree#0;class#Same_Tree_100#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsHappyNumber_202.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidPalindromeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ClosestSumProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/FruitIntoBasket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddBinary_67.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/WallsAndGate_286.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/SumII_40.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonPrefixMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/thread/ThreadJoinDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="78" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ValidMountainArray_941.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayPartitionI_561.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

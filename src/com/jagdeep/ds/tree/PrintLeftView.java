@@ -1,9 +1,8 @@
 package com.jagdeep.ds.tree;
 
-import com.jagdeep.ds.Utils;
+import com.jagdeep.ds.Utils.Utils;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class PrintLeftView {
 

@@ -1,0 +1,8 @@
+Given a string of words return all words which have their reverse present in the string as
+( (word1 , reverseword1 ) , (word2 ,reverseword2) )
+
+Input -
+Sachin tendulkar is the best   tseb    eth  nihcaS
+
+Output  -
+{ ( best ,   tseb )  , ( the  ,  eth) , (Sachin  ,  nihcaS) }

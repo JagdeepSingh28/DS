@@ -50,28 +50,43 @@ public class WordBreakProblem {
 }
 
     class Solution {
-        public boolean wordBreak(String s, Set<String> dict) {
-                 return wordBreakHelper(s, dict, 0);
-        }
-     
-        public boolean wordBreakHelper(String s, Set<String> dict, int start){
-            if(start == s.length()) 
-                return true;
-     
-            for(String a: dict){
-                int len = a.length();
-                int end = start+len;
-     
-                //end index should be <= string length
-                if(end > s.length()) 
-                    continue;
-     
-                if(s.substring(start, start+len).equals(a))
-                    if(wordBreakHelper(s, dict, start+len))
-                        return true;
+//        public boolean wordBreak(String s, Set<String> dict) {
+//                 return wordBreakHelper(s, dict, 0);
+//        }
+//
+//        public boolean wordBreakHelper(String s, Set<String> dict, int start){
+//            if(start == s.length())
+//                return true;
+//
+//            for(String a: dict){
+//                int len = a.length();
+//                int end = start+len;
+//
+//                //end index should be <= string length
+//                if(end > s.length())
+//                    continue;
+//
+//                if(s.substring(start, start+len).equals(a))
+//                    if(wordBreakHelper(s, dict, start+len))
+//                        return true;
+//            }
+//
+//            return false;
+//        }
+
+        public boolean wordBreak(String s, Set<String> wordDict) {
+            boolean[] res = new boolean[s.length() +1];
+            String t = "*" + s;
+            res[0] = true;
+
+            for(int i=1; i< t.length(); i++){
+                for(int k = 0; k< i; k++){
+                    res[i] = res[k] && wordDict.contains(t.substring(k+1, i+1)); // this is i+1 cause we are calculating res[i], so charAt(i) should be included;
+                    if(res[i]) break;
+                }
             }
-     
-            return false;
+
+            return res[res.length-1];
         }
     }
 

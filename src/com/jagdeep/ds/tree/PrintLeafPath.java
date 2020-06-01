@@ -1,7 +1,5 @@
 package com.jagdeep.ds.tree;
 
-import com.jagdeep.ds.Utils;
-
 import java.util.ArrayList;
 
 public class PrintLeafPath {

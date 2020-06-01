@@ -1,6 +1,6 @@
 package com.jagdeep.ds.array;
 
-import com.jagdeep.ds.Utils;
+import com.jagdeep.ds.Utils.Utils;
 
 public class Pivot {
 
