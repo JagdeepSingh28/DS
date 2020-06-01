@@ -1,2 +1,1 @@
-SAmpleDS
-second try to commit
+Solutions for Common DS problems for interviews
