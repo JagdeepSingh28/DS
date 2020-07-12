@@ -22,6 +22,11 @@ public class BinaryTreePath_257 {
         TreeNode left;
         TreeNode right;
         TreeNode(int x) { val = x; }
+
+        @Override
+        public String toString() {
+            return ""+val;
+        }
     }
 
 
@@ -30,10 +35,12 @@ public class BinaryTreePath_257 {
         TreeNode rootLeft = new TreeNode(2);
         TreeNode rootRight = new TreeNode(3);
         TreeNode rootLeftRight = new TreeNode(5);
+        TreeNode rootLeftLeft = new TreeNode(4);
 
         root.left = rootLeft;
         root.right = rootRight;
         root.left.right = rootLeftRight;
+        root.left.left = rootLeftLeft;
 
         binaryTreePaths(root);
     }

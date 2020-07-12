@@ -2,82 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd483ec7-ce52-4756-986c-02ae11443824" name="Default" comment="leet code Commit">
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/HashMap/DesignHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/array/ArrayToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/Convert_0To5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/MinWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/geeks/RearrangeArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/graph/All_Paths_From_Source_Target_797.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/AddDigit_258.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ArrayNesting_565.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BST_from_preorder_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/CountCharacters_1160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/DecryptString_1309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Detect_capital_520.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Height_Checker_1051.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Intersection_of_Two_Linked_Lists_160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/IsomorphicString_205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Multiply_String_43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/OddEvenLinkedList_328.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Queen_king_1222.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RangeSumQuery2D_304.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Relative_Sort_Array_1122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/RemoveVowel_1119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Resverse_word_151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/ReverseVowelsString_345.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Shuffle_Array_384.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SingleNumberII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/SortColors_75.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Sum_of_Square_Numbers_633.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Surrounded_region_130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Three_sum_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/TwoSum1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/TwoSumII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/WingleSort_280.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_1302.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_387_FirstUniqueCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_408_Valid_Word_Abbreviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/_81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/SimpleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/test/Trash" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterativeOneStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/RangeSumBST_938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/RightViewOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SpiralLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/ToLowerCase_709.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/InvertBinaryTree_226.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Lexicographical_number_386.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonSubsequence_1143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestPalindrome_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxSubArrayProduct_152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinimumDepth_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PascalTriangle_118.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PlusOne_66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/PoerOfThree_326.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/array/Pivot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/array/Pivot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/dynamic/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/dynamic/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/sort/Insertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/sort/Insertion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/IsBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/IsBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/LevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/MirrorTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/MirrorTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NarryTreeMirror.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NarryTreeMirror.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NoSiblingsNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/NoSiblingsNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PreOrderIterativeTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PreOrderIterativeTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeafPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeafPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeftView.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/PrintLeftView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/SumOfLeftLeaves.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/jagdeep/ds/tree/SumOfLeftLeaves.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/Utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/array/Pivot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/array/Pivot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/dynamic/WordBreakProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/MergeList_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/sort/Insertion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/sort/Insertion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/IsBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/IsBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/LevelOrderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/LevelOrderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/MirrorTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/MirrorTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NarryTreeMirror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NarryTreeMirror.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NoSiblingsNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/NoSiblingsNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PreOrderIterativeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PreOrderIterativeTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeafPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeafPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeftView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/PrintLeftView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/Search_BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/Search_BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SumOfLeftLeaves.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/tree/SumOfLeftLeaves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Three_sum_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jagdeep/ds/leet/Three_sum_15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,12 +53,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="24" />
-    <option name="width" value="1295" />
-    <option name="height" value="628" />
-  </component>
   <component name="ProjectId" id="1bi57jrlNj97m4F0eGMnbbAU7dJ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -132,7 +65,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Set.java" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538650561399" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../B2CorpController/code/corporatemobileutility" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring/corona/coronavirus-tracker" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -142,6 +76,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jagdeep.ds.leet" />
       <recent name="com.jagdeep.ds.test" />
       <recent name="com.jagdeep.ds.tree" />
     </key>
@@ -152,9 +87,9 @@
       <recent name="G:\Work\code\jagdeepGit\DS\src\com\jagdeep\ds\array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._408_Valid_Word_Abbreviation">
-    <configuration name="TwoSum1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.TwoSum1" />
+  <component name="RunManager" selected="Application.MaxSubArrayProduct_152">
+    <configuration name="MaxSubArrayProduct_152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.MaxSubArrayProduct_152" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -167,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._238" />
+    <configuration name="MinimumDepth_111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.MinimumDepth_111" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -181,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_387_FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._387_FirstUniqueCharacterInString" />
+    <configuration name="PascalTriangle_118" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.PascalTriangle_118" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -195,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_408_Valid_Word_Abbreviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._408_Valid_Word_Abbreviation" />
+    <configuration name="PlusOne_66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.PlusOne_66" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -209,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet._81" />
+    <configuration name="PoerOfThree_326" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jagdeep.ds.leet.PoerOfThree_326" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -246,19 +181,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoSum1" />
-      <item itemvalue="Application._238" />
-      <item itemvalue="Application._387_FirstUniqueCharacterInString" />
-      <item itemvalue="Application._408_Valid_Word_Abbreviation" />
-      <item itemvalue="Application._81" />
+      <item itemvalue="Application.MaxSubArrayProduct_152" />
+      <item itemvalue="Application.MinimumDepth_111" />
+      <item itemvalue="Application.PascalTriangle_118" />
+      <item itemvalue="Application.PlusOne_66" />
+      <item itemvalue="Application.PoerOfThree_326" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._408_Valid_Word_Abbreviation" />
-        <item itemvalue="Application._387_FirstUniqueCharacterInString" />
-        <item itemvalue="Application.TwoSum1" />
-        <item itemvalue="Application._238" />
-        <item itemvalue="Application._81" />
+        <item itemvalue="Application.MaxSubArrayProduct_152" />
+        <item itemvalue="Application.PoerOfThree_326" />
+        <item itemvalue="Application.MinimumDepth_111" />
+        <item itemvalue="Application.PlusOne_66" />
+        <item itemvalue="Application.PascalTriangle_118" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568267397144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="leet code Commit">
+      <created>1590982708194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590982708194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -297,38 +239,78 @@
     <option name="LAST_COMMIT_MESSAGE" value="leet code Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1285" height="84" key="GridCell.Tab.0.bottom" timestamp="1589109587500">
+    <state x="337" y="24" width="740" height="744" key="#Three_sum_15" timestamp="1591154288959">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="84" key="GridCell.Tab.0.bottom/35.24.1331.744@35.24.1331.744" timestamp="1589109587500" />
-    <state width="1285" height="84" key="GridCell.Tab.0.center" timestamp="1589109587499">
+    <state x="337" y="24" width="740" height="744" key="#Three_sum_15/35.24.1331.744@35.24.1331.744" timestamp="1591154288959" />
+    <state x="424" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1590984371072">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="84" key="GridCell.Tab.0.center/35.24.1331.744@35.24.1331.744" timestamp="1589109587499" />
-    <state width="1285" height="84" key="GridCell.Tab.0.left" timestamp="1589109587498">
+    <state x="424" y="87" key="#com.intellij.ide.util.MemberChooser/35.24.1331.744@35.24.1331.744" timestamp="1590984371072" />
+    <state x="388" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1592544076721">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="84" key="GridCell.Tab.0.left/35.24.1331.744@35.24.1331.744" timestamp="1589109587498" />
-    <state width="1285" height="84" key="GridCell.Tab.0.right" timestamp="1589109587500">
+    <state x="388" y="120" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/35.24.1331.744@35.24.1331.744" timestamp="1592544076721" />
+    <state x="463" y="128" key="#xdebugger.evaluate" timestamp="1592883779973">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="84" key="GridCell.Tab.0.right/35.24.1331.744@35.24.1331.744" timestamp="1589109587500" />
-    <state width="1285" height="98" key="GridCell.Tab.1.bottom" timestamp="1589109587486">
+    <state x="463" y="128" key="#xdebugger.evaluate/35.24.1331.744@35.24.1331.744" timestamp="1592883779973" />
+    <state x="244" y="24" key="CommitChangelistDialog2" timestamp="1590982706031">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="98" key="GridCell.Tab.1.bottom/35.24.1331.744@35.24.1331.744" timestamp="1589109587486" />
-    <state width="1285" height="98" key="GridCell.Tab.1.center" timestamp="1589109587483">
+    <state x="244" y="24" key="CommitChangelistDialog2/35.24.1331.744@35.24.1331.744" timestamp="1590982706031" />
+    <state width="464" height="478" key="DebuggerActiveHint" timestamp="1592883859252">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="98" key="GridCell.Tab.1.center/35.24.1331.744@35.24.1331.744" timestamp="1589109587483" />
-    <state width="1285" height="98" key="GridCell.Tab.1.left" timestamp="1589109587483">
+    <state width="464" height="478" key="DebuggerActiveHint/35.24.1331.744@35.24.1331.744" timestamp="1592883859252" />
+    <state x="487" y="141" width="424" height="482" key="FileChooserDialogImpl" timestamp="1594213041557">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="98" key="GridCell.Tab.1.left/35.24.1331.744@35.24.1331.744" timestamp="1589109587483" />
-    <state width="1285" height="98" key="GridCell.Tab.1.right" timestamp="1589109587486">
+    <state x="487" y="141" width="424" height="482" key="FileChooserDialogImpl/35.24.1331.744@35.24.1331.744" timestamp="1594213041557" />
+    <state width="1285" height="149" key="GridCell.Tab.0.bottom" timestamp="1593493175251">
       <screen x="35" y="24" width="1331" height="744" />
     </state>
-    <state width="1285" height="98" key="GridCell.Tab.1.right/35.24.1331.744@35.24.1331.744" timestamp="1589109587486" />
+    <state width="1285" height="149" key="GridCell.Tab.0.bottom/35.24.1331.744@35.24.1331.744" timestamp="1593493175251" />
+    <state width="1285" height="149" key="GridCell.Tab.0.center" timestamp="1593493175251">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.0.center/35.24.1331.744@35.24.1331.744" timestamp="1593493175251" />
+    <state width="1285" height="149" key="GridCell.Tab.0.left" timestamp="1593493175250">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.0.left/35.24.1331.744@35.24.1331.744" timestamp="1593493175250" />
+    <state width="1285" height="149" key="GridCell.Tab.0.right" timestamp="1593493175251">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.0.right/35.24.1331.744@35.24.1331.744" timestamp="1593493175251" />
+    <state width="1285" height="149" key="GridCell.Tab.1.bottom" timestamp="1593493175252">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.1.bottom/35.24.1331.744@35.24.1331.744" timestamp="1593493175252" />
+    <state width="1285" height="149" key="GridCell.Tab.1.center" timestamp="1593493175251">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.1.center/35.24.1331.744@35.24.1331.744" timestamp="1593493175251" />
+    <state width="1285" height="149" key="GridCell.Tab.1.left" timestamp="1593493175251">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.1.left/35.24.1331.744@35.24.1331.744" timestamp="1593493175251" />
+    <state width="1285" height="149" key="GridCell.Tab.1.right" timestamp="1593493175252">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state width="1285" height="149" key="GridCell.Tab.1.right/35.24.1331.744@35.24.1331.744" timestamp="1593493175252" />
+    <state x="300" y="119" key="Vcs.Push.Dialog.v2" timestamp="1590982728650">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state x="300" y="119" key="Vcs.Push.Dialog.v2/35.24.1331.744@35.24.1331.744" timestamp="1590982728650" />
+    <state x="476" y="298" width="448" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592883364586">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state x="476" y="298" width="448" height="168" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/35.24.1331.744@35.24.1331.744" timestamp="1592883364586" />
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1593147672791">
+      <screen x="35" y="24" width="1331" height="744" />
+    </state>
+    <state x="363" y="89" width="672" height="678" key="search.everywhere.popup/35.24.1331.744@35.24.1331.744" timestamp="1593147672791" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -634,11 +616,6 @@
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class</url>
           <line>15</line>
           <option name="timeStamp" value="80" />
@@ -803,7 +780,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/BinaryTreePath_257.java</url>
-          <line>56</line>
+          <line>63</line>
           <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -1061,6 +1038,91 @@
           <line>9</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/InvertBinaryTree_226.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PartitionLabel.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestSubstringWithoutRepeatingCharacters_3.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestPalindrome_5.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestPalindrome_5.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Lexicographical_number_386.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_121.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/Best_time_to_buy_sell_stock_121.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/LongestCommonSubsequence_1143.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PascalTriangle_118.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PascalTriangle_118.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PlusOne_66.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MinimumDepth_111.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/PoerOfThree_326.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/leet/MaxSubArrayProduct_152.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/com/jagdeep/ds/tree/PostOrderIterativeOneStack.java</url>
           <line>20</line>
@@ -1084,55 +1146,6 @@
     <SUITE FILE_PATH="coverage/DS$ArrayNesting_565.ic" NAME="ArrayNesting_565 Coverage Results" MODIFIED="1579592082257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.jagdeep.ds.leet.*</FILTER>
     </SUITE>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>'z'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>z</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>x + dx &gt;= 0 &amp;&amp; x + dx &lt; 8 &amp;&amp; y + dy &gt;= 0 &amp;&amp; y + dy &lt; 8</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num[lo] + num[hi]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num[i] != num[i - 1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>num[i - 1]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>wordDict.contains(t.substring(k+1, i+1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>res[k] &amp;&amp; wordDict.contains(t.substring(k+1, i+1))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Ch(char)94</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="masterDetails">
     <states>
