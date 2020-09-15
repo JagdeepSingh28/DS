@@ -2,7 +2,9 @@ package com.jagdeep.ds.tree;
 
 import com.jagdeep.ds.Utils.Utils;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 public class LevelOrderTraversal {
@@ -12,7 +14,9 @@ public class LevelOrderTraversal {
     public static void main(String[] arg){
 
         createTree();
-        printLevelOrderTraversal(root);
+//        printLevelOrderTraversal(root);
+        List<List<Integer>> result = new ArrayList<>();
+        levelOrderHelper(result, root, 0);
     }
 
     private static void printLevelOrderTraversal(TNode root) {
@@ -55,5 +59,22 @@ public class LevelOrderTraversal {
         root.left.right.left  = new TNode(7);
         root.left.right.right  = new TNode(8);
 
+    }
+
+    public static void levelOrderHelper(List<List<Integer>> res, TNode root, int level) {
+        if (root == null)
+            return;
+        List<Integer> curr;
+        if (level >= res.size()) {
+            curr = new ArrayList<>();
+            curr.add(root.key);
+            res.add(curr);
+        } else {
+            curr = res.get(level);
+            curr.add(root.key);
+            //res.add(curr); // No need to add the curr into the res, because the res.get(index) method does not remove the index element
+        }
+        levelOrderHelper(res, root.left, level + 1);
+        levelOrderHelper(res, root.right, level + 1);
     }
 }

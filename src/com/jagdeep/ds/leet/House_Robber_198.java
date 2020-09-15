@@ -3,11 +3,11 @@ package com.jagdeep.ds.leet;
 public class House_Robber_198 {
 
     public static void main(String[] args) {
-        int[] nums = new int[]{2,7,9,3,1};
-        System.out.println(rob(nums));
+        int[] nums = new int[]{3,1,1,10,0};
+        System.out.println(rob_(nums));
     }
 
-    public static int rob(int[] nums) {
+    public static int rob_(int[] nums) {
         if(nums.length == 0) {
             return 0;
         }
@@ -26,5 +26,16 @@ public class House_Robber_198 {
         }
 
         return dp[dp.length - 1];
+    }
+
+
+    public static int rob(int[] nums) {
+        return rob(nums, nums.length - 1);
+    }
+    private static int rob(int[] nums, int i) {
+        if (i < 0) {
+            return 0;
+        }
+        return Math.max(rob(nums, i - 2) + nums[i], rob(nums, i - 1));
     }
 }

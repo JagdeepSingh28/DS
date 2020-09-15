@@ -10,7 +10,7 @@ public class Subset {
 
         int[] num = new int[]{1,2,3};
         Subset subset = new Subset();
-        ArrayList<ArrayList<Integer>> sub = subset.subsets(num);
+        List<List<Integer>> sub = subset.subsets(num);
 
         for (int i = 0; i < sub.size(); i++) {
             List<Integer> s2 = sub.get(i);
@@ -43,7 +43,7 @@ public class Subset {
         }
     }
 
-    public ArrayList<ArrayList<Integer>> subsets(int[] S) {
+    public ArrayList<ArrayList<Integer>> subsets__(int[] S) {
         if (S == null)
             return null;
 
@@ -76,5 +76,21 @@ public class Subset {
         result.add(new ArrayList<Integer>());
 
         return result;
+    }
+
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>> list = new ArrayList<>();
+//        Arrays.sort(nums);
+        backtrack(list, new ArrayList<>(), nums, 0);
+        return list;
+    }
+
+    private void backtrack(List<List<Integer>> list , List<Integer> tempList, int [] nums, int start){
+        list.add(new ArrayList<>(tempList));
+        for(int i = start; i < nums.length; i++){
+            tempList.add(nums[i]);
+            backtrack(list, tempList, nums, i + 1);
+            tempList.remove(tempList.size() - 1);
+        }
     }
 }
