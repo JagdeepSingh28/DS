@@ -5,10 +5,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class LetterCombinationOfPhone {
+public class _17_LetterCombinationOfPhone {
 
     public static void main(String[] args) {
-        LetterCombinationOfPhone letterCombinationOfPhone = new LetterCombinationOfPhone();
+        _17_LetterCombinationOfPhone letterCombinationOfPhone = new _17_LetterCombinationOfPhone();
         List<String> result = letterCombinationOfPhone.letterCombinations("23");
 
         for (String s : result) {

@@ -4,8 +4,34 @@ import com.jagdeep.ds.Utils.Utils;
 
 public class MaxSubArrayProduct_152 {
     public static void main(String[] args) {
-        Utils.print(maxProduct(new int[]{0,2}));
+        Utils.print(maxProduct__(new int[]{2,3,-2,4,2}));
     }
+
+    public static int maxProduct__(int[] nums) {
+
+        int prod = 1;
+        int result = Integer.MIN_VALUE;
+
+        for(int i = 0; i < nums.length; i++) {
+            prod = prod * nums[i];
+            result = Math.max(prod, result);
+            if(prod == 0) {
+                prod = 1;
+            }
+        }
+        prod = 1;
+
+        for(int i = nums.length - 1; i >= 0; i--) {
+
+            prod = prod * nums[i];
+            result = Math.max(prod, result);
+            if(prod == 0) {
+                prod = 1;
+            }
+        }
+        return result;
+    }
+
 
     public static int maxProduct_(int[] nums) {
         int max =Integer.MIN_VALUE;

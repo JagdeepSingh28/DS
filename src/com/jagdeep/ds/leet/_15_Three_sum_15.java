@@ -4,10 +4,10 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Three_sum_15 {
+public class _15_Three_sum_15 {
 
     public static void main(String[] args) {
-        Three_sum_15 three_sum_15 = new Three_sum_15();
+        _15_Three_sum_15 three_sum_15 = new _15_Three_sum_15();
         three_sum_15.threeSum(new int[]{-1, 0, 1, 2, -1, -4});
     }
 

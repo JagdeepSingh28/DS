@@ -1,6 +1,6 @@
 package com.jagdeep.ds.leet;
 
-public class MergeList_21 {
+public class _21_mergeList {
 
     public static class ListNode {
        int val;

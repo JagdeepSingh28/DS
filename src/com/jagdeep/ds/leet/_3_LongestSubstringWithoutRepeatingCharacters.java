@@ -5,13 +5,13 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class LongestSubstringWithoutRepeatingCharacters_3 {
+public class _3_LongestSubstringWithoutRepeatingCharacters {
 
     public static void main(String[] args) {
         String input = "pwwkew";
 
-        LongestSubstringWithoutRepeatingCharacters_3 longestSubstringWithoutRepeatingCharacters_3 = new LongestSubstringWithoutRepeatingCharacters_3();
-        System.out.println(longestSubstringWithoutRepeatingCharacters_3.lengthOfLongestSubstring(input));
+        _3_LongestSubstringWithoutRepeatingCharacters longestSubstringWithoutRepeatingCharacters_3 = new _3_LongestSubstringWithoutRepeatingCharacters();
+        System.out.println(longestSubstringWithoutRepeatingCharacters_3.lengthOfLongestSubstring__(input));
     }
 
     public int lengthOfLongestSubstring(String s) {

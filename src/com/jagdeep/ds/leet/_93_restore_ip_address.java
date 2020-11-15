@@ -7,7 +7,7 @@ public class _93_restore_ip_address {
 
     public static void main(String[] args) {
         _93_restore_ip_address restore_ip_address = new _93_restore_ip_address();
-        restore_ip_address.restoreIpAddresses("101023");
+        restore_ip_address.restoreIpAddresses("101023").iterator().forEachRemaining(s -> System.out.println(s));
     }
 
     public List<String> restoreIpAddresses(String s) {

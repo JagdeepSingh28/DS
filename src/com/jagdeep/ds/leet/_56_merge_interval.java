@@ -9,8 +9,8 @@ public class _56_merge_interval {
     public static void main(String[] args) {
         _56_merge_interval merge_interval = new _56_merge_interval();
         merge_interval.merge(new int[][]{
-//                {1,3},{2,6},{8,10},{15,18}
-                {1,4},{0,4}
+                {1,3},{2,6},{8,10},{15,18}
+//                {1,4},{0,4}
         });
     }
 
